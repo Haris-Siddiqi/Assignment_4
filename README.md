@@ -1,6 +1,7 @@
 # Banking App
 
-- Developed a console based banking application in C#
-- Implemented multiple account types (checking, saving, visa) to allow user to select account that best suits their needs
-- Integrated exception handling to ensure user cannot spend more than they have
-- Utilized inheritance and object oriented programming to write code efficiently and without duplication
+- Developed a console-based banking application in C# that allows banks to easily manage their client’s accounts and transactions
+- Implemented 3 different account types (checking, savings, visa) using inheritance
+- Integrated exception handling to prevent clients from overdrafting
+- Incorporated monthly reports with transactions and balance details
+- Prioritized security by adding log-in and log-out feature and using private variables to prevent unauthorized access to sensitive information
